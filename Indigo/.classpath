@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Neoloadsupport/Javaprojects/Seetest/seetestrelatedexternaljars/neoload (2)/java/imageClient.jar"/>
+	<classpathentry kind="lib" path="D:/Neoloadsupport/Javaprojects/Seetest/seetestrelatedexternaljars/neoload (2)/java/junit-4.4.jar"/>
+	<classpathentry kind="lib" path="D:/Neoloadsupport/Javaprojects/Seetest/seetestrelatedexternaljars/neoload (2)/java/mobile-webdriver.jar"/>
+	<classpathentry kind="lib" path="D:/Neoloadsupport/Javaprojects/Seetest/seetestrelatedexternaljars/neoload (2)/java/selenium-api-2.42.2.jar"/>
+	<classpathentry kind="lib" path="D:/Neoloadsupport/Javaprojects/Seetest/seetestrelatedexternaljars/neoload (2)/java/selenium-support-2.44.0.jar"/>
+	<classpathentry kind="lib" path="D:/Neoloadsupport/Javaprojects/Seetest/seetestrelatedexternaljars/neoload (2)/java/ws-commons-util-1.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/Neoloadsupport/Javaprojects/Seetest/seetestrelatedexternaljars/neoload (2)/java/xmlrpc-client-3.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Neoloadsupport/Javaprojects/Seetest/seetestrelatedexternaljars/neoload (2)/java/xmlrpc-common-3.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/NeoLoad 7.4/api/Data Exchange API Client/Java/neotys-rest-api-dataexchange-client-1.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/NeoLoad 7.4/api/Data Exchange API Client/Java/neotys-rest-api-dataexchange-client-olingo-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/NeoLoad 7.4/api/Common/Java/neotys-rest-api-common-1.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/NeoLoad 7.4/api/Common/Java/olingo-odata2-api-2.0.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

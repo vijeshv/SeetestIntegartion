@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Experitest/SeeTest/clients/java/imageClient.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Experitest/SeeTest/clients/java/junit-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Experitest/SeeTest/clients/java/ws-commons-util-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Experitest/SeeTest/clients/java/xmlrpc-client-3.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Experitest/SeeTest/clients/java/xmlrpc-common-3.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/NeoLoad 5.1.2/lib/neotys-rest-api-common-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/NeoLoad 5.1.2/lib/neotys-rest-api-dataexchange-client-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/NeoLoad 5.1.2/lib/neotys-rest-api-dataexchange-client-olingo-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/NeoLoad 5.1.2/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/NeoLoad 5.1.2/lib/commons-lang3-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/NeoLoad 5.1.2/lib/gson-2.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/NeoLoad 5.1.2/lib/guava-14.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/NeoLoad 5.1.2/lib/olingo-odata2-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/NeoLoad 5.1.2/lib/olingo-odata2-core-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/NeoLoad 5.1.2/lib/javax.ws.rs-api-2.0-m10.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/NeoLoad 5.1.2/lib/neotys-rest-api-client-olingo-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/NeoLoad 5.1.2/lib/neotys-rest-api-dataexchange-client-olingo-1.0.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/NeoLoad 5.1.2/lib/neotys-rest-api-dataexchange-client-olingo-1.0.1-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
